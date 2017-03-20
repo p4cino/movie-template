@@ -5,5 +5,12 @@
 }
 
 #menu-header {
-  height: 10vh;
+    height: 10vh;
+}
+
+#news {
+    height: 90vh;
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../../upload/slide/default.jpg);
+    background-size: cover;
+    color: white;
 }
