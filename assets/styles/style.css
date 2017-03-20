@@ -4,6 +4,19 @@
     text-align: center
 }
 
+.navbar {
+    -webkit-transition: all 0.9s ease-out;
+    -moz-transition: all 0.9s ease-out;
+    -o-transition: all 0.9s ease-out;
+    -ms-transition: all 0.9s ease-out;
+    transition: all 0.9s ease-out;
+    z-index: 1;
+}
+
+.navbar.scrolled {
+    background: rgba(0, 0, 0, 0.5) !important; //NON-IE
+}
+
 #menu-header {
     height: 10vh;
 }
@@ -12,5 +25,4 @@
     height: 90vh;
     background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../../upload/slide/default.jpg);
     background-size: cover;
-    color: white;
 }
