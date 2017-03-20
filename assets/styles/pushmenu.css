@@ -1,5 +1,10 @@
 #pm_menu {
-		position: fixed; height: 100%; width: 300px; background:blue; top: 0; z-index: 1001;
+		position: fixed;
+		height: 100%;
+		width: 250px;
+		background:blue;
+		top: 0;
+		z-index: 1001;
 		-webkit-animation: backSlideOut .3s both ease;
 		-moz-animation: backSlideOut .3s both ease;
 		animation: backSlideOut .3s both ease;
