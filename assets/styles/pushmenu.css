@@ -9,6 +9,7 @@
 		-moz-animation: backSlideOut .3s both ease;
 		animation: backSlideOut .3s both ease;
 	}
+
 	#pm_menu.pm_open{
 		left: 0px;
 		-webkit-animation: backSlideIn .5s both ease;

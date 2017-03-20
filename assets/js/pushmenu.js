@@ -29,7 +29,6 @@
 	pushMenu.prototype.initializeEvents = function(){
 
 		var _this = this;
-
 		this.$toggler.on('click', function(){
 			_this.toggleMenu("show");
 			//_this.$toggler.hide();
