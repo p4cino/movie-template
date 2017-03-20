@@ -32,12 +32,12 @@
 
 		this.$toggler.on('click', function(){
 			_this.toggleMenu("show");
-			_this.$toggler.hide();
+			//_this.$toggler.hide();
 		});
 
 		this.$body.on('click','.'+_this.classes.overlay, function(){
 			_this.toggleMenu("hide");
-			_this.$toggler.show();
+			//_this.$toggler.show();
 		});
 	}
 
