@@ -23,6 +23,7 @@
 		if(this.$body.find("."+this.classes.overlay).length < 1){
 			var overlay = $("<div>").addClass(this.classes.overlay+" "+this.classes.hide);
 			this.$body.append(overlay);
+            _this.$elem.hide();
 		}
 	}
 
@@ -32,11 +33,13 @@
 		this.$toggler.on('click', function(){
 			_this.toggleMenu("show");
 			//_this.$toggler.hide();
+            _this.$elem.show();
 		});
 
 		this.$body.on('click','.'+_this.classes.overlay, function(){
 			_this.toggleMenu("hide");
 			//_this.$toggler.show();
+            _this.$elem.hide();
 		});
 	}
 
