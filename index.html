@@ -14,6 +14,9 @@
 
     <!--Menu boczne-->
     <link rel="stylesheet" href="./assets/styles/pushmenu.css">
+    <!--Karuzela-->
+    <link rel="stylesheet" href="./assets/owlcarousel/assets/owl.carousel.min.css">
+    <link rel="stylesheet" href="./assets/owlcarousel/assets/owl.theme.default.min.css">
     <!--Styl modyfikujący wygląd -->
     <link rel="stylesheet" href="./assets/styles/style.css">
 
@@ -41,7 +44,49 @@
 </div>
 
 <div class="container-fluid" id="news">
-    <div class="container">
+    <div class="container-fluid">
+    </div>
+</div>
+
+<div class="conteiner-fluid">
+    <h4 id="center-with-loop">Polecane filmy</h4>
+    <div class="loop owl-carousel owl-theme">
+        <div class="item">
+            <h4>1</h4>
+        </div>
+        <div class="item">
+            <h4>2</h4>
+        </div>
+        <div class="item">
+            <h4>3</h4>
+        </div>
+        <div class="item">
+            <h4>4</h4>
+        </div>
+        <div class="item">
+            <h4>5</h4>
+        </div>
+        <div class="item">
+            <h4>6</h4>
+        </div>
+        <div class="item">
+            <h4>7</h4>
+        </div>
+        <div class="item">
+            <h4>8</h4>
+        </div>
+        <div class="item">
+            <h4>9</h4>
+        </div>
+        <div class="item">
+            <h4>10</h4>
+        </div>
+        <div class="item">
+            <h4>11</h4>
+        </div>
+        <div class="item">
+            <h4>12</h4>
+        </div>
     </div>
 </div>
 
@@ -77,6 +122,7 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js"
         integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn"
         crossorigin="anonymous"></script>
+<script src="assets/owlcarousel/owl.carousel.min.js"></script>
 
 <script type="text/javascript" src="./assets/js/pushmenu.js"></script>
 <script type="text/javascript">
@@ -88,6 +134,19 @@
 </script>
 
 <script type="text/javascript">
+    //Karuzela
+    $('.loop').owlCarousel({
+        center: true,
+        items:2,
+        loop:true,
+        margin:10,
+        responsive:{
+            600:{
+                items:4
+            }
+        }
+    });
+    //Opacity menu
     function checkScroll() {
         var startY = $('.navbar').height() * 2; //The point where the navbar changes in px
 

@@ -27,3 +27,9 @@
     background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../../upload/slide/default.jpg);
     background-size: cover;
 }
+
+.item {
+    width: 200px;
+    height:200px;
+    background: green;
+}
