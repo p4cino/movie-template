@@ -29,7 +29,6 @@
 }
 
 .item {
-    width: 200px;
-    height:200px;
-    background: green;
+    width: 300px;
+    height: 150px;
 }
