@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://C:/laragon/www/com.lesnaly/.idea/com.lesnaly.iml" filepath="C:/laragon/www/com.lesnaly/.idea/com.lesnaly.iml" />
+      <module fileurl="file://C:/laragon/www/lesnaly/.idea/lesnaly.iml" filepath="C:/laragon/www/lesnaly/.idea/lesnaly.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/movie-template.iml" filepath="$PROJECT_DIR$/.idea/movie-template.iml" />
+      <module fileurl="file://$USER_HOME$/PhpstormProjects/recipeBox/.idea/recipeBox.iml" filepath="$USER_HOME$/PhpstormProjects/recipeBox/.idea/recipeBox.iml" />
     </modules>
   </component>
 </project>

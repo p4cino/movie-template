@@ -27,7 +27,9 @@
 <body>
 
 <nav class="navbar fixed-top navbar-inverse navbar-toggleable-md bg-inverse">
-    <a id="open" href="#" class="btn btn-outline-secondary mx-2" ><i class="fa fa-bars" aria-hidden="true"></i></a>
+    <div class="menu">
+        <i id="open" class="fa fa-bars" aria-hidden="true"></i>
+    </div>
     <a class="navbar-brand mx-3" href="#"><i class="fa fa-bullseye"></i>Movie</a>
 </nav>
 
@@ -36,7 +38,7 @@
     <figure class="figure my-2">
         <img src="./upload/avatar/default.png" class="figure-img img-fluid rounded-circle" alt="A generic square placeholder image with rounded corners in a figure.">
         <figcaption class="figure-caption">
-            <p class="text-white">Wojciech Puzio</p>
+            <button type="button" class="btn btn-outline-primary">Dołącz Do Nas</button>
         </figcaption>
     </figure>
 
@@ -44,8 +46,6 @@
 </div>
 
 <div class="container-fluid" id="news">
-    <div class="container-fluid">
-    </div>
 </div>
 
 <div class="container-fluid">
@@ -60,18 +60,86 @@
                             <h3>
                                 Caption Title
                             </h3>
-                            <p>
-                                Caption text...
-                            </p>
                         </div>
                     </figcaption>
                 </a>
             </figure>
         </div>
+        <div class="item">
+            <figure>
+                <a href="#">
+                    <img src="https://placehold.it/300x140&text=1" class="img-thumbnail" alt="" />
+                    <figcaption>
+                        <div>
+                            <h3>
+                                Caption Title
+                            </h3>
+                        </div>
+                    </figcaption>
+                </a>
+            </figure>
+        </div>
+        <div class="item">
+            <figure>
+                <a href="#">
+                    <img src="https://placehold.it/300x140&text=1" class="img-thumbnail" alt="" />
+                    <figcaption>
+                        <div>
+                            <h3>
+                                Caption Title
+                            </h3>
+                        </div>
+                    </figcaption>
+                </a>
+            </figure>
+        </div>
+        <div class="item">
+            <figure>
+                <a href="#">
+                    <img src="https://placehold.it/300x140&text=1" class="img-thumbnail" alt="" />
+                    <figcaption>
+                        <div>
+                            <h3>
+                                Caption Title
+                            </h3>
+                        </div>
+                    </figcaption>
+                </a>
+            </figure>
+        </div>
+        <div class="item">
+            <figure>
+                <a href="#">
+                    <img src="https://placehold.it/300x140&text=1" class="img-thumbnail" alt="" />
+                    <figcaption>
+                        <div>
+                            <h3>
+                                Caption Title
+                            </h3>
+                        </div>
+                    </figcaption>
+                </a>
+            </figure>
+        </div>
+        <div class="item">
+            <figure>
+                <a href="#">
+                    <img src="https://placehold.it/300x140&text=1" class="img-thumbnail" alt="" />
+                    <figcaption>
+                        <div>
+                            <h3>
+                                Caption Title
+                            </h3>
+                        </div>
+                    </figcaption>
+                </a>
+            </figure>
+        </div>
+
     </div>
 </div>
 
-<div class="container-fluid">
+<div class="container">
     Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
     in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing
     elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
@@ -117,13 +185,21 @@
 <script type="text/javascript">
     //Karuzela
     $('.loop').owlCarousel({
-        center: true,
-        items:2,
         loop:true,
+        dots: false,
         margin:10,
+        nav: true,
+        responsiveClass:true,
         responsive:{
+            0:{
+                items:1,
+                nav:true
+            },
             600:{
-                items:4
+                items:3,
+            },
+            1000:{
+                items:5,
             }
         }
     });

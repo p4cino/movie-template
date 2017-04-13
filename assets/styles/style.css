@@ -1,6 +1,6 @@
 #pm_menu {
-    background: #34495E;
-    color: #fff;
+    background: white;
+    color: #000000;
     text-align: center
 }
 
@@ -14,12 +14,20 @@
     background: rgba(0, 0, 0, 0) !important;
 }
 
+.navbar a{
+    color: white;
+}
+
 .navbar.scrolled {
-    background: rgba(0, 0, 0, 0.5) !important; //NON-IE
+    background: rgba(0, 0, 0, 0.5) !important;
 }
 
 #menu-header {
     height: 10vh;
+}
+
+.menu {
+    color: white;
 }
 
 #news {
@@ -28,11 +36,6 @@
     background-size: cover;
 }
 
-.item {
-    width: 300px;
-    height: 150px;
-}
-
-.item:hover {
-    background: rgba(0, 0, 0, 0.7);
+figure img:hover {
+    display: none;
 }
