@@ -26,8 +26,21 @@
     height: 10vh;
 }
 
-.menu {
+.site-menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+
+.site-menu li {
+    float: left;
     color: white;
+}
+
+.site-menu li a{
+    display: block;
+    padding-top: 10px;
 }
 
 #news {
