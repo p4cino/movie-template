@@ -56,14 +56,12 @@ Tags:
     .menu-container__list__item, .menu-container__list li, .menu-container ul__item, .menu-container ul li {
       text-align: left; }
       .menu-container__list__item a, .menu-container__list li a, .menu-container ul__item a, .menu-container ul li a {
-        color: #1e1e1e;
-        padding: 0px 20px;
-        font-weight: 100; }
+        color: #1e1e1e; }
 
 /* Cover z filmem */
 #news {
   height: 95vh;
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../../upload/slide/default.jpg") no-repeat center center fixed;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../../upload/slide/default.jpg) no-repeat center center fixed;
   background-size: cover; }
 
 .opis {
