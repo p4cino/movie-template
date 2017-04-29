@@ -13,7 +13,7 @@ if ($('.navbar').length > 0) {
 
 //=====Video Setings=====
 function videoBottomPause() {
-    var startY = 400;
+    var startY = 250;
     var scroll = $(window).scrollTop();
     if (scroll >= startY) {
         $('#play_pause-video').removeClass('fa-pause').addClass('fa-play');
