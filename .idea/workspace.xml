@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ff15c6b-7995-49f4-af73-c5312e7f31e6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/styles/.sass-cache/4e003ee5e0a6a314cf7c00ffefa3e0a7d6eb31da/_navbar.scssc" afterPath="$PROJECT_DIR$/assets/styles/.sass-cache/4e003ee5e0a6a314cf7c00ffefa3e0a7d6eb31da/_navbar.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/styles/.sass-cache/4e003ee5e0a6a314cf7c00ffefa3e0a7d6eb31da/_video-background.scssc" afterPath="$PROJECT_DIR$/assets/styles/.sass-cache/4e003ee5e0a6a314cf7c00ffefa3e0a7d6eb31da/_video-background.scssc" />
       <change type="MODIFICATION" beforePath="C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/assets/scripts/main.js" afterPath="C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/assets/scripts/main.js" />
       <change type="MODIFICATION" beforePath="C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/assets/styles/70-organisms/_organism.data-contact.scss" afterPath="C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/assets/styles/70-organisms/_organism.data-contact.scss" />
       <change type="MODIFICATION" beforePath="C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/views/elements/data-contact.php" afterPath="C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/views/elements/data-contact.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/styles/css/20-organisms/_navbar.scss" afterPath="$PROJECT_DIR$/assets/styles/css/20-organisms/_navbar.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/styles/css/20-organisms/_video-background.scss" afterPath="$PROJECT_DIR$/assets/styles/css/20-organisms/_video-background.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/styles/style.css" afterPath="$PROJECT_DIR$/assets/styles/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/styles/style.css.map" afterPath="$PROJECT_DIR$/assets/styles/style.css.map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,8 +20,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="71" column="76" lean-forward="false" selection-start-line="71" selection-start-column="76" selection-end-line="71" selection-end-column="76" />
+            <state relative-caret-position="230">
+              <caret line="62" column="106" lean-forward="false" selection-start-line="62" selection-start-column="106" selection-end-line="62" selection-end-column="106" />
               <folding />
             </state>
           </provider>
@@ -746,7 +740,7 @@
       <workItem from="1493282270290" duration="23275000" />
       <workItem from="1493384294126" duration="4996000" />
       <workItem from="1493467498153" duration="293000" />
-      <workItem from="1493467941526" duration="13515000" />
+      <workItem from="1493467941526" duration="13704000" />
     </task>
     <task id="LOCAL-00001" summary="Karuzela">
       <created>1491149728956</created>
@@ -787,10 +781,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="224217000" />
+    <option name="totallyTimeSpent" value="224406000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21449487" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1206,8 +1200,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="71" column="76" lean-forward="false" selection-start-line="71" selection-start-column="76" selection-end-line="71" selection-end-column="76" />
+        <state relative-caret-position="230">
+          <caret line="62" column="106" lean-forward="false" selection-start-line="62" selection-start-column="106" selection-end-line="62" selection-end-column="106" />
           <folding />
         </state>
       </provider>
