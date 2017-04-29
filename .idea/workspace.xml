@@ -3,13 +3,17 @@
   <component name="ChangeListManager">
     <list default="true" id="7ff15c6b-7995-49f4-af73-c5312e7f31e6" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/styles/.sass-cache/4e003ee5e0a6a314cf7c00ffefa3e0a7d6eb31da/_cover.scssc" afterPath="$PROJECT_DIR$/assets/styles/.sass-cache/4e003ee5e0a6a314cf7c00ffefa3e0a7d6eb31da/_cover.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/styles/.sass-cache/4e003ee5e0a6a314cf7c00ffefa3e0a7d6eb31da/_video-background.scssc" afterPath="$PROJECT_DIR$/assets/styles/.sass-cache/4e003ee5e0a6a314cf7c00ffefa3e0a7d6eb31da/_video-background.scssc" />
       <change type="MODIFICATION" beforePath="C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/assets/scripts/main.js" afterPath="C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/assets/scripts/main.js" />
       <change type="MODIFICATION" beforePath="C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/assets/styles/70-organisms/_organism.data-contact.scss" afterPath="C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/assets/styles/70-organisms/_organism.data-contact.scss" />
       <change type="MODIFICATION" beforePath="C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/views/elements/data-contact.php" afterPath="C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/views/elements/data-contact.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/main.js" afterPath="$PROJECT_DIR$/assets/js/main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/styles/css/20-organisms/_cover.scss" afterPath="$PROJECT_DIR$/assets/styles/css/20-organisms/_cover.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/styles/css/20-organisms/_video-background.scss" afterPath="$PROJECT_DIR$/assets/styles/css/20-organisms/_video-background.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/styles/style.css" afterPath="$PROJECT_DIR$/assets/styles/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/styles/style.css.map" afterPath="$PROJECT_DIR$/assets/styles/style.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,8 +28,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="62" column="48" lean-forward="false" selection-start-line="62" selection-start-column="48" selection-end-line="62" selection-end-column="48" />
+            <state relative-caret-position="238">
+              <caret line="62" column="127" lean-forward="false" selection-start-line="62" selection-start-column="127" selection-end-line="62" selection-end-column="127" />
               <folding />
             </state>
           </provider>
@@ -34,28 +38,38 @@
       <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="18" lean-forward="false" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+            <state relative-caret-position="357">
+              <caret line="21" column="39" lean-forward="false" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_cover.scss" pinned="false" current-in-tab="false">
+      <file leaf-file-name="_cover.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/styles/css/20-organisms/_cover.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="29" lean-forward="false" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+            <state relative-caret-position="102">
+              <caret line="6" column="27" lean-forward="false" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_navbar.scss" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/assets/styles/css/20-organisms/_navbar.scss">
+      <file leaf-file-name="_mixins.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/styles/css/00-settings/_mixins.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="18" lean-forward="false" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+            <state relative-caret-position="51">
+              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_video-background.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/styles/css/20-organisms/_video-background.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -185,8 +199,8 @@
         <option value="$PROJECT_DIR$/assets/styles/css/20-organisms/_content.scss" />
         <option value="$PROJECT_DIR$/assets/styles/css/style.scss" />
         <option value="$PROJECT_DIR$/assets/styles/css/00-settings/_mixins.scss" />
-        <option value="$PROJECT_DIR$/assets/styles/css/20-organisms/_video-background.scss" />
         <option value="$PROJECT_DIR$/assets/styles/css/20-organisms/_navbar.scss" />
+        <option value="$PROJECT_DIR$/assets/styles/css/20-organisms/_video-background.scss" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/assets/js/main.js" />
         <option value="$PROJECT_DIR$/assets/styles/css/20-organisms/_cover.scss" />
@@ -750,7 +764,7 @@
       <workItem from="1493282270290" duration="23275000" />
       <workItem from="1493384294126" duration="4996000" />
       <workItem from="1493467498153" duration="293000" />
-      <workItem from="1493467941526" duration="17342000" />
+      <workItem from="1493467941526" duration="18659000" />
     </task>
     <task id="LOCAL-00001" summary="Karuzela">
       <created>1491149728956</created>
@@ -791,7 +805,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="228044000" />
+    <option name="totallyTimeSpent" value="229361000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -1143,6 +1157,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/styles/css/20-organisms/_content.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/styles/css/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="38" lean-forward="false" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/assets/styles/css/20-organisms/_left-menu.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -1151,10 +1181,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/styles/css/20-organisms/_content.scss">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        <state relative-caret-position="238">
+          <caret line="62" column="127" lean-forward="false" selection-start-line="62" selection-start-column="127" selection-end-line="62" selection-end-column="127" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/styles/css/20-organisms/_video-background.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/styles/css/20-organisms/_navbar.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="18" lean-forward="false" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="39" lean-forward="false" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
           <folding />
         </state>
       </provider>
@@ -1167,52 +1221,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/styles/css/20-organisms/_video-background.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-          <folding>
-            <element signature="e#315#484#2" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/styles/css/style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="38" lean-forward="false" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="62" column="48" lean-forward="false" selection-start-line="62" selection-start-column="48" selection-end-line="62" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="18" lean-forward="false" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/styles/css/20-organisms/_cover.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="29" lean-forward="false" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/styles/css/20-organisms/_navbar.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="18" lean-forward="false" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        <state relative-caret-position="102">
+          <caret line="6" column="27" lean-forward="false" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
           <folding />
         </state>
       </provider>

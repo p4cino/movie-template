@@ -18,6 +18,8 @@ function videoBottomPause() {
     if (scroll >= startY) {
         $('#play_pause-video').removeClass('fa-pause').addClass('fa-play');
         $("video").get(0).pause();
+        $('#mute-video').toggleClass('fa-volume-up fa-volume-off');
+        $("video").prop('muted', true);
     }
     var endY = $('.navbar').height() * 2;
     if ($(window).scrollTop() < endY) {

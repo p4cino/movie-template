@@ -4,6 +4,9 @@
 }
 
 .vid-container {
+  @media (max-width: 920px) {
+    display: none;
+  }
   position: relative;
   height: 100%;
   overflow: hidden;
