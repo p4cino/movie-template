@@ -60,7 +60,7 @@
 
 <div class="container-fluid video" id="news">
     <div class="vid-container">
-        <video class="bgvid" autoplay="autoplay" muted="muted" preload="auto" onloadstart="this.volume=0.4" loop>
+        <video class="bgvid" autoplay="autoplay" preload="auto" onloadstart="this.volume=0.4" loop>
             <source src="https://www.lizart.vxm.pl/upload/logan-video.mp4" type="video/mp4">
             <p>Twoja przeglądarka nie obsługuje formatu video</p>
         </video>
@@ -241,84 +241,7 @@
 <script src="assets/owlcarousel/owl.carousel.min.js"></script>
 
 <script type="text/javascript" src="./assets/js/pushmenu.js"></script>
-
-<script>
-    // Mute/Unmute
-    $("#mute-video").click( function (){
-        $('#mute-video').toggleClass('fa-volume-up fa-volume-off');
-        if( $("video").prop('muted') ) {
-            $("video").prop('muted', false);
-        } else {
-            $("video").prop('muted', true);
-        }
-    });
-    // Play/Pause
-    $('#play_pause-video').click(function () {
-        $('#play_pause-video').toggleClass('fa-play fa-pause');
-        if ($("video").get(0).paused) {
-            $("video").get(0).play();
-        } else {
-            $("video").get(0).pause();
-        }
-    });
-    // Play/Pause
-    $('#fullscreen-video').click(function () {
-            $("video").get(0).requestFullscreen;
-            console.log("dupa");
-    });
-
-
-</script>
-<script type="text/javascript">
-    (function ($) {
-        $('#pm_menu').pushmenu({
-            button: "#open"
-        });
-    })(jQuery);
-</script>
-
-<script type="text/javascript">
-    //Karuzela
-    $('.loop').owlCarousel({
-        loop: true,
-        dots: false,
-        margin: 10,
-        nav: true,
-        autoplay: true,
-        autoplayTimeout: 4500,
-        autoplayHoverPause: true,
-        animateOut: true,
-        responsiveClass: true,
-        responsive: {
-            0: {
-                items: 1,
-                nav: true
-            },
-            600: {
-                items: 3,
-            },
-            1000: {
-                items: 5,
-            }
-        }
-    });
-    //Opacity menu
-    function checkScroll() {
-        var startY = $('.navbar').height() * 2; //The point where the navbar changes in px
-
-        if ($(window).scrollTop() > startY) {
-            $('.navbar').addClass("scrolled");
-        } else {
-            $('.navbar').removeClass("scrolled");
-        }
-    }
-
-    if ($('.navbar').length > 0) {
-        $(window).on("scroll load resize", function () {
-            checkScroll();
-        });
-    }
-</script>
+<script type="text/javascript" src="./assets/js/main.js"></script>
 
 </body>
 </html>
