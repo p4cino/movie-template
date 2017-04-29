@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ff15c6b-7995-49f4-af73-c5312e7f31e6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/css/_cover.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/css/_left-menu.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/css/_navbar.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/css/style.scss" />
+      <change type="MODIFICATION" beforePath="C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/assets/scripts/main.js" afterPath="C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/assets/scripts/main.js" />
+      <change type="MODIFICATION" beforePath="C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/assets/styles/70-organisms/_organism.data-contact.scss" afterPath="C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/assets/styles/70-organisms/_organism.data-contact.scss" />
+      <change type="MODIFICATION" beforePath="C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/views/elements/data-contact.php" afterPath="C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/views/elements/data-contact.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/movie-template.iml" afterPath="$PROJECT_DIR$/.idea/movie-template.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/styles/style.css" afterPath="$PROJECT_DIR$/assets/styles/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,28 +24,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="233" column="89" lean-forward="false" selection-start-line="233" selection-start-column="89" selection-end-line="233" selection-end-column="89" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/styles/css/style.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_left-menu.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/styles/css/_left-menu.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+            <state relative-caret-position="-3111">
+              <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -61,50 +42,58 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>m</find>
-      <find>mo</find>
-      <find>mon</find>
-      <find>mont</find>
-      <find>monts</find>
-      <find>montse</find>
-      <find>montser</find>
-      <find>montserr</find>
-      <find>h</find>
-      <find>h2</find>
-      <find>!</find>
-      <find>!im</find>
-      <find>!imp</find>
-      <find>!impo</find>
-      <find>.site</find>
-      <find>shopify</find>
-      <find>f</find>
-      <find>for</find>
-      <find>form</find>
-      <find>form.scss</find>
-      <find>.checkbox-inline</find>
-      <find>text-align: center</find>
+      <find>get_cat</find>
+      <find>get_cat_</find>
+      <find>get_cat_v</find>
+      <find>get_cat_va</find>
+      <find>get_cat_val</find>
+      <find>get_cat_valu</find>
+      <find>get_cat_value</find>
+      <find>.selectric</find>
+      <find>heading__category</find>
+      <find>get_categories()</find>
+      <find>main-banner</find>
+      <find>contact-page</find>
+      <find>front-page</find>
+      <find>contact-form</find>
+      <find>activi</find>
+      <find>array_activities_section</find>
+      <find>$array_contact_form</find>
+      <find>$array_front_page_header</find>
+      <find>edi</find>
+      <find>@media only screen and (max-width: 500px) {</find>
       <find>d</find>
-      <find>downl</find>
-      <find>download</find>
-      <find>download-</find>
-      <find>download-form</find>
-      <find>header</find>
-      <find>logo</find>
-      <find>relative</find>
+      <find>docum</find>
+      <find>documen</find>
+      <find>document</find>
+      <find>documents</find>
+      <find>array_front_page_header</find>
+      <find>array_contact_documents</find>
+      <find>editor</find>
+      <find>a</find>
+      <find>atom</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
     <dirStrings>
       <dir>C:\laragon\www\com.lesnaly\wp-content\themes\lesnaly\css\4-organisms</dir>
       <dir>C:\laragon\www\com.lesnaly</dir>
       <dir>C:\laragon\www\com.lesnaly\wp-content\themes</dir>
       <dir>C:\laragon\www\com.lesnaly\wp-content\themes\lesnaly\css</dir>
-      <dir>C:\laragon\www\com.lesnaly\wp-content\themes\lesnaly</dir>
-      <dir>C:\laragon\www\lesnaly</dir>
       <dir>C:\laragon\www\lesnaly\wp-content</dir>
-      <dir>C:\laragon\www\lesnaly\wp-content\themes\lesnaly\css</dir>
       <dir>C:\laragon\www\lesnaly\wp-content\themes\lesnaly\assets</dir>
       <dir>C:\laragon\www\lesnaly\wp-content\themes\lesnaly\css\3-molecules</dir>
-      <dir>C:\laragon\www\lesnaly\wp-content\themes\lesnaly</dir>
+      <dir>C:\laragon\www\lesnaly\wp-content\themes\lesnaly\css</dir>
+      <dir>C:\laragon\www\lesnaly</dir>
       <dir>C:\laragon\www\lesnaly\wp-content\themes</dir>
+      <dir>C:\laragon\www\lesnaly\wp-content\themes\lesnaly</dir>
+      <dir>C:\laragon\www\pl.energi</dir>
+      <dir>C:\laragon\www\pl.energi\web\app\themes\is-energi\resources\assets</dir>
+      <dir>C:\laragon\www\pl.energi\web\app\themes\is-energi\resources\assets\styles</dir>
+      <dir>C:\laragon\www\com.lesnaly\wp-content\themes\lesnaly</dir>
+      <dir>C:\laragon\www\pl.energi\web\app\themes\is-energi\resources\views\elements</dir>
+      <dir>C:\laragon\www\pl.energi\web\app\themes</dir>
     </dirStrings>
   </component>
   <component name="FrameworkCommandLineHistory">
@@ -119,53 +108,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test.html" />
-        <option value="$PROJECT_DIR$/assets/styles/pushmenu.css" />
-        <option value="$PROJECT_DIR$/assets/js/pushmenu.js" />
-        <option value="$PROJECT_DIR$/.htaccess" />
-        <option value="C:/laragon/www/com.lesnaly/wp-content/db.php" />
-        <option value="C:/laragon/www/com.lesnaly/wp-content/themes/lesnaly/css/style.scss" />
-        <option value="C:/laragon/www/com.lesnaly/wp-content/themes/lesnaly/css/3-molecules/_editors-picks.scss" />
-        <option value="$PROJECT_DIR$/../movie-sass/themes/movie/css/style.css" />
-        <option value="$PROJECT_DIR$/../movie-sass/themes/movie/css/style.scss" />
-        <option value="C:/laragon/www/com.lesnaly/wp-content/themes/lesnaly/css/1-global/_heading.scss" />
-        <option value="C:/laragon/www/com.lesnaly/wp-content/themes/lesnaly/css/4-organisms/_pocket-menu.scss" />
-        <option value="C:/laragon/www/com.lesnaly/wp-content/themes/lesnaly/css/style.css.map" />
-        <option value="C:/laragon/www/com.lesnaly/wp-content/themes/lesnaly/css/2-atoms/_buttons.scss" />
-        <option value="C:/laragon/www/com.lesnaly/index.php" />
-        <option value="C:/laragon/www/com.lesnaly/wp-content/themes/lesnaly/inc/base-functions.php" />
-        <option value="C:/laragon/www/com.lesnaly/wp-content/themes/lesnaly/style.css" />
-        <option value="C:/laragon/www/com.lesnaly/wp-content/themes/lesnaly/css/4-organisms/pocket-menu.scss" />
-        <option value="C:/laragon/www/com.lesnaly/wp-content/themes/lesnaly/css/style.css" />
-        <option value="C:/laragon/www/lesnaly/wp-content/db.php" />
-        <option value="C:/laragon/www/lesnaly/wp-content/themes/lesnaly/css/2-atoms/_buttons.scss" />
-        <option value="C:/laragon/www/lesnaly/wp-content/themes/lesnaly/css/3-molecules/_single-recipe.scss" />
-        <option value="C:/laragon/www/lesnaly/wp-content/themes/lesnaly/css/4-organisms/_homepage-slider.scss" />
-        <option value="C:/laragon/www/lesnaly/wp-content/themes/lesnaly/css/4-organisms/pocket-menu.scss" />
-        <option value="C:/laragon/www/lesnaly/wp-content/themes/lesnaly/assets/js/main.js" />
-        <option value="C:/laragon/www/lesnaly/wp-content/themes/lesnaly/style.css" />
-        <option value="C:/laragon/www/lesnaly/wp-content/themes/lesnaly/header.php" />
-        <option value="$USER_HOME$/PhpstormProjects/recipeBox/style.css" />
-        <option value="C:/laragon/www/lesnaly/wp-content/themes/lesnaly/css/3-molecules/_pagination.scss" />
-        <option value="$USER_HOME$/PhpstormProjects/recipeBox/index.html" />
-        <option value="$USER_HOME$/PhpstormProjects/recipeBox/style.scss" />
-        <option value="C:/laragon/www/lesnaly/wp-content/themes/lesnaly/single-food.php" />
-        <option value="C:/laragon/www/lesnaly/wp-content/themes/lesnaly/css/3-molecules/_recipe-box.scss" />
-        <option value="C:/laragon/www/lesnaly/wp-content/themes/lesnaly/css/2-atoms/_misc.scss" />
-        <option value="C:/laragon/www/lesnaly/wp-content/themes/lesnaly/css/1-global/_top.scss" />
-        <option value="C:/laragon/www/lesnaly/wp-content/themes/lesnaly/css/4-organisms/_shop.scss" />
-        <option value="C:/laragon/www/lesnaly/wp-content/themes/lesnaly/css/4-organisms/_post.scss" />
-        <option value="C:/laragon/www/lesnaly/wp-content/themes/lesnaly/single-product.php" />
-        <option value="C:/laragon/www/lesnaly/wp-content/themes/lesnaly/css/4-organisms/_about-main.scss" />
-        <option value="C:/laragon/www/lesnaly/wp-content/themes/lesnaly/css/4-organisms/_about-writers.scss" />
-        <option value="C:/laragon/www/lesnaly/wp-content/themes/lesnaly/css/3-molecules/_form.scss" />
-        <option value="$PROJECT_DIR$/assets/styles/css/navbar.scss" />
-        <option value="$PROJECT_DIR$/assets/styles/css/style.css" />
-        <option value="$PROJECT_DIR$/assets/styles/style.css" />
         <option value="$PROJECT_DIR$/assets/styles/css/cover.scss" />
         <option value="$PROJECT_DIR$/assets/styles/css/style.scss" />
         <option value="$PROJECT_DIR$/assets/styles/css/_left-menu.scss" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="C:/laragon/www/lesnaly/wp-content/themes/lesnaly/janusz.php" />
+        <option value="$USER_HOME$/PhpstormProjects/recipeBox/index.html" />
+        <option value="C:/laragon/www/lesnaly/wp-content/themes/lesnaly/css/style.scss" />
+        <option value="C:/laragon/www/lesnaly/wp-content/themes/lesnaly/css/3-molecules/_download-form-popup.scss" />
+        <option value="C:/laragon/www/lesnaly/wp-content/themes/lesnaly/css/3-molecules/_library-form.scss" />
+        <option value="C:/laragon/www/lesnaly/wp-content/themes/lesnaly/piklist/parts/meta-boxes/downloads.php" />
+        <option value="C:/laragon/www/lesnaly/wp-content/themes/lesnaly/template-library.php" />
+        <option value="C:/laragon/www/lesnaly/wp-content/themes/lesnaly/single.php" />
+        <option value="C:/laragon/www/lesnaly/wp-content/themes/lesnaly/single-food.php" />
+        <option value="C:/laragon/www/lesnaly/wp-content/themes/lesnaly/css/3-molecules/_recipe-box.scss" />
+        <option value="C:/laragon/www/lesnaly/wp-content/themes/lesnaly/css/1-global/_alignment.scss" />
+        <option value="C:/laragon/www/lesnaly/wp-content/themes/lesnaly/css/4-organisms/_post.scss" />
+        <option value="C:/laragon/www/movie/var/ustawienia.php" />
+        <option value="C:/laragon/www/movie/index.php" />
+        <option value="C:/laragon/www/lesnaly/wp-content/themes/lesnaly/css/3-molecules/_editors-picks.scss" />
+        <option value="C:/laragon/www/lesnaly/wp-content/themes/lesnaly/footer.php" />
+        <option value="C:/laragon/www/lesnaly/wp-content/themes/lesnaly/assets/js/main.js" />
+        <option value="C:/laragon/www/pl.energi/composer.json" />
+        <option value="C:/laragon/www/pl.energi/web/app/themes/is-energi/yarn.lock" />
+        <option value="C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/assets/styles/50-atoms/_atom.google-map.scss" />
+        <option value="C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/assets/styles/70-organisms/_organism.header-contact.scss" />
+        <option value="C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/assets/styles/50-atoms/_atom.paragraph.scss" />
+        <option value="C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/assets/styles/70-organisms/_organism.form-contact.scss" />
+        <option value="C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/assets/styles/60-molecules/_organism.documents-contact.scss" />
+        <option value="C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/assets/styles/main.scss" />
+        <option value="C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/assets/styles/50-atoms/_atom.icon.scss" />
+        <option value="C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/views/template-poligon.php" />
+        <option value="C:/laragon/www/com.lesnaly/wp-content/themes/lesnaly/css/4-organisms/_post.scss" />
+        <option value="C:/laragon/www/com.lesnaly/wp-content/themes/lesnaly/single-food.php" />
+        <option value="C:/laragon/www/com.lesnaly/wp-content/themes/lesnaly/single.php" />
+        <option value="C:/laragon/www/com.lesnaly/wp-content/themes/lesnaly/assets/js/main.js" />
+        <option value="C:/laragon/www/com.lesnaly/wp-content/themes/lesnaly/front-page.php" />
+        <option value="C:/laragon/www/com.lesnaly/wp-content/themes/lesnaly/single-product.php" />
+        <option value="C:/laragon/www/com.lesnaly/wp-content/themes/lesnaly/page.php" />
+        <option value="C:/laragon/www/com.lesnaly/wp-content/themes/lesnaly/functions.php" />
+        <option value="C:/laragon/www/pl.energi/.env" />
+        <option value="C:/laragon/www/pl.energi/web/app/themes/is-energi/piklist/parts/meta-boxes/contact.php" />
+        <option value="C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/views/elements/activity-block.php" />
+        <option value="C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/views/elements/header-contact.php" />
+        <option value="C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/views/elements/form.php" />
+        <option value="C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/views/elements/faq.php" />
+        <option value="C:/laragon/www/pl.energi/web/app/themes/is-energi/piklist/parts/meta-boxes/contact-page.php" />
+        <option value="C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/assets/styles/60-molecules/_molecule.documents-contact.scss" />
+        <option value="C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/views/elements/documents.php" />
+        <option value="C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/assets/scripts/main.js" />
+        <option value="C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/assets/styles/70-organisms/_organism.data-contact.scss" />
+        <option value="C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/views/elements/data-contact.php" />
       </list>
     </option>
   </component>
@@ -174,6 +167,9 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="C:/laragon/www/pl.energi/web/app/themes/is-energi/node_modules" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
@@ -272,14 +268,18 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="C:/laragon/www/lesnaly" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="last_opened_file_path" value="C:/laragon/www/com.lesnaly" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\laragon\www\pl.energi\web\app\themes\is-energi\resources\assets\styles\60-molecules" />
+      <recent name="C:\laragon\www\pl.energi\web\app\themes\is-energi\resources\assets\styles\70-organisms" />
+      <recent name="C:\laragon\www\pl.energi\web\app\themes\is-energi\resources\assets\styles\50-atoms" />
+      <recent name="C:\laragon\www\pl.energi\web\app\themes\is-energi\resources\views" />
       <recent name="C:\laragon\www\com.lesnaly" />
-      <recent name="E:\licencjat\movie-template\assets" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -398,7 +398,20 @@
       <workItem from="1492073112191" duration="5028000" />
       <workItem from="1492447272973" duration="1396000" />
       <workItem from="1492499286716" duration="533000" />
-      <workItem from="1492499906516" duration="7485000" />
+      <workItem from="1492499906516" duration="8205000" />
+      <workItem from="1492543151328" duration="1258000" />
+      <workItem from="1492583164523" duration="1627000" />
+      <workItem from="1492614563229" duration="2301000" />
+      <workItem from="1492675369741" duration="21402000" />
+      <workItem from="1492782852971" duration="7356000" />
+      <workItem from="1492853331598" duration="3690000" />
+      <workItem from="1493021299872" duration="20363000" />
+      <workItem from="1493105955833" duration="5209000" />
+      <workItem from="1493113941496" duration="18913000" />
+      <workItem from="1493282270290" duration="23275000" />
+      <workItem from="1493384294126" duration="4996000" />
+      <workItem from="1493467498153" duration="293000" />
+      <workItem from="1493467941526" duration="892000" />
     </task>
     <task id="LOCAL-00001" summary="Karuzela">
       <created>1491149728956</created>
@@ -439,13 +452,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="99299000" />
+    <option name="totallyTimeSpent" value="211594000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29648608" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21449487" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -462,7 +475,7 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -476,7 +489,7 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <ignored-roots>
-      <path value="C:/laragon/www/com.lesnaly" />
+      <path value="C:/laragon/www/lesnaly" />
     </ignored-roots>
     <MESSAGE value="Karuzela" />
     <MESSAGE value="Karuzela poprawki 1" />
@@ -490,345 +503,348 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://C:/laragon/www/com.lesnaly/wp-content/themes/lesnaly/css/1-global/_top.scss" />
-    <entry file="file://C:/laragon/www/com.lesnaly/wp-content/themes/lesnaly/header.php" />
-    <entry file="file://C:/laragon/www/com.lesnaly/wp-content/themes/lesnaly/css/style.scss" />
-    <entry file="file://C:/laragon/www/com.lesnaly/wp-content/themes/lesnaly/css/4-organisms/pocket-menu.scss" />
-    <entry file="file://C:/laragon/www/lesnaly/wp-content/themes/lesnaly/css/2-atoms/_buttons.scss">
+    <entry file="file://C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/assets/styles/05-tools/_mixins.spacing.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="27" column="20" lean-forward="true" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+        <state relative-caret-position="-1071">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/laragon/www/lesnaly/wp-content/themes/lesnaly/css/4-organisms/_homepage-slider.scss">
+    <entry file="file://C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/assets/styles/60-molecules/_molecule.booking-iframe.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="134" column="28" lean-forward="true" selection-start-line="134" selection-start-column="28" selection-end-line="134" selection-end-column="28" />
+        <state relative-caret-position="-306">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/laragon/www/lesnaly/wp-content/themes/lesnaly/css/3-molecules/_boutique.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="126" column="3" lean-forward="false" selection-start-line="126" selection-start-column="3" selection-end-line="126" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/laragon/www/lesnaly/wp-content/themes/lesnaly/assets/js/main.js">
+    <entry file="file://C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/assets/styles/70-organisms/_organism.form-contact.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="319" column="38" lean-forward="false" selection-start-line="319" selection-start-column="38" selection-end-line="319" selection-end-column="38" />
+          <caret line="12" column="51" lean-forward="true" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/laragon/www/lesnaly/wp-content/db.php" />
-    <entry file="file://C:/laragon/www/lesnaly/wp-content/themes/lesnaly/assets/css/bootstrap.css">
+    <entry file="file://C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/assets/styles/main.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-70">
-          <caret line="3962" column="1" lean-forward="true" selection-start-line="3962" selection-start-column="1" selection-end-line="3962" selection-end-column="14" />
+        <state relative-caret-position="1989">
+          <caret line="171" column="48" lean-forward="false" selection-start-line="171" selection-start-column="48" selection-end-line="171" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/laragon/www/lesnaly/wp-content/themes/lesnaly/styles.css">
+    <entry file="file://C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/assets/styles/08-generic/_generic.box-sizing.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="340">
+          <caret line="20" column="5" lean-forward="false" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/laragon/www/lesnaly/wp-content/themes/style.css">
+    <entry file="file://C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/assets/styles/70-organisms/_organism.header-frontpage.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="221">
+          <caret line="13" column="59" lean-forward="false" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="59" />
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/laragon/www/lesnaly/wp-content/themes/lesnaly/style.css">
+    <entry file="file://C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/assets/styles/50-atoms/_atom.headings.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="1085" column="53" lean-forward="false" selection-start-line="1085" selection-start-column="24" selection-end-line="1085" selection-end-column="53" />
+        <state relative-caret-position="323">
+          <caret line="49" column="16" lean-forward="false" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/laragon/www/lesnaly/wp-content/themes/lesnaly/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="58" column="57" lean-forward="false" selection-start-line="58" selection-start-column="57" selection-end-line="58" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/PhpstormProjects/recipeBox/css/bootstrap-grid.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-51">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/laragon/www/lesnaly/wp-content/themes/lesnaly/css/3-molecules/_pagination.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="88" column="13" lean-forward="true" selection-start-line="88" selection-start-column="13" selection-end-line="88" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/PhpstormProjects/recipeBox/style.css.map">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider editor-type-id="sourcemapFileViewerProvider">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/PhpstormProjects/recipeBox/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="46" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/laragon/www/lesnaly/wp-content/themes/lesnaly/single-food.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1008">
-          <caret line="99" column="6" lean-forward="false" selection-start-line="99" selection-start-column="6" selection-end-line="99" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/PhpstormProjects/recipeBox/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/PhpstormProjects/recipeBox/style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/laragon/www/lesnaly/wp-content/themes/lesnaly/css/3-molecules/_posts-loop.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2244">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/laragon/www/lesnaly/wp-content/themes/lesnaly/css/1-global/_spacing.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/laragon/www/lesnaly/wp-content/themes/lesnaly/css/1-global/_mixins.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/laragon/www/lesnaly/wp-content/themes/lesnaly/css/2-atoms/_misc.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="25" column="17" lean-forward="false" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/laragon/www/lesnaly/wp-content/themes/lesnaly/single-product.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="56" column="67" lean-forward="false" selection-start-line="56" selection-start-column="43" selection-end-line="56" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/laragon/www/lesnaly/wp-content/themes/lesnaly/css/4-organisms/_about-main.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="122" column="21" lean-forward="false" selection-start-line="122" selection-start-column="21" selection-end-line="122" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/laragon/www/lesnaly/wp-content/themes/lesnaly/css/4-organisms/_shop.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="25" lean-forward="false" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/laragon/www/lesnaly/wp-content/themes/lesnaly/css/4-organisms/_post.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="126" column="8" lean-forward="false" selection-start-line="126" selection-start-column="8" selection-end-line="126" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/laragon/www/lesnaly/wp-content/themes/lesnaly/css/3-molecules/_recipe-box.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="6" lean-forward="false" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/laragon/www/lesnaly/wp-content/themes/lesnaly/css/3-molecules/_single-recipe.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1037">
-          <caret line="83" column="22" lean-forward="true" selection-start-line="83" selection-start-column="22" selection-end-line="83" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/laragon/www/lesnaly/wp-content/themes/lesnaly/css/4-organisms/_about-writers.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1105">
-          <caret line="65" column="9" lean-forward="false" selection-start-line="65" selection-start-column="9" selection-end-line="65" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/laragon/www/lesnaly/wp-content/themes/lesnaly/css/3-molecules/_download-form-popup.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="17" lean-forward="false" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/laragon/www/lesnaly/wp-content/themes/lesnaly/css/3-molecules/_form.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="155" column="27" lean-forward="true" selection-start-line="155" selection-start-column="27" selection-end-line="155" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/laragon/www/lesnaly/wp-content/themes/lesnaly/css/3-molecules/_search-overlay.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/laragon/www/lesnaly/wp-content/themes/lesnaly/css/0-settings/_bootstrap-buttons.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1819">
-          <caret line="107" column="0" lean-forward="false" selection-start-line="107" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/laragon/www/lesnaly/wp-content/themes/lesnaly/css/0-settings/_bootstrap-reset.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/laragon/www/lesnaly/wp-content/themes/lesnaly/css/0-settings/_bootstrap-grid.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/laragon/www/lesnaly/wp-content/themes/lesnaly/css/1-global/_text.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/laragon/www/lesnaly/wp-content/themes/lesnaly/css/1-global/_layout.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/styles/style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/styles/css/_navbar.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="40" column="1" lean-forward="false" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/styles/css/style.css">
+    <entry file="file://C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/assets/styles/30-global/_utilities.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-714">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/styles/style.css">
+    <entry file="file://C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/views/template-poligon.php" />
+    <entry file="file://C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/assets/styles/60-molecules/_molecule.icon-columns.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/laragon/www/lesnaly/wp-content/themes/lesnaly/css/1-global/_top.scss">
+    <entry file="file://C:/laragon/www/com.lesnaly/wp-content/themes/lesnaly/comments.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-70">
-          <caret line="250" column="22" lean-forward="false" selection-start-line="250" selection-start-column="14" selection-end-line="250" selection-end-column="22" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/laragon/www/lesnaly/wp-content/themes/lesnaly/css/4-organisms/pocket-menu.scss">
+    <entry file="file://C:/laragon/www/com.lesnaly/wp-content/themes/lesnaly/template-roboczy.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="48" column="3" lean-forward="false" selection-start-line="48" selection-start-column="3" selection-end-line="48" selection-end-column="3" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/styles/css/_cover.scss">
+    <entry file="file://C:/laragon/www/com.lesnaly/wp-content/themes/lesnaly/css/4-organisms/_post.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="109" lean-forward="false" selection-start-line="4" selection-start-column="109" selection-end-line="4" selection-end-column="109" />
-          <folding />
+        <state relative-caret-position="187">
+          <caret line="176" column="22" lean-forward="false" selection-start-line="176" selection-start-column="22" selection-end-line="176" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/laragon/www/lesnaly/wp-content/themes/lesnaly/css/style.scss">
+    <entry file="file://C:/laragon/www/com.lesnaly/wp-content/themes/lesnaly/single-food.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="15" lean-forward="false" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="45" />
-          <folding />
+        <state relative-caret-position="373">
+          <caret line="54" column="45" lean-forward="false" selection-start-line="54" selection-start-column="45" selection-end-line="54" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/styles/css/style.scss">
+    <entry file="file://C:/laragon/www/com.lesnaly/wp-content/themes/lesnaly/single.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="59" column="49" lean-forward="false" selection-start-line="59" selection-start-column="49" selection-end-line="59" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/laragon/www/com.lesnaly/wp-content/themes/lesnaly/assets/js/plugins.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5576">
+          <caret line="164" column="0" lean-forward="true" selection-start-line="164" selection-start-column="0" selection-end-line="164" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/laragon/www/com.lesnaly/wp-content/themes/lesnaly/assets/js/.listing">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/laragon/www/com.lesnaly/wp-content/themes/lesnaly/assets/js/vendor/jquery.selectric.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="1058" column="15" lean-forward="true" selection-start-line="1058" selection-start-column="15" selection-end-line="1058" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/laragon/www/com.lesnaly/wp-content/themes/lesnaly/assets/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="382" column="37" lean-forward="false" selection-start-line="382" selection-start-column="37" selection-end-line="382" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/laragon/www/com.lesnaly/wp-content/themes/lesnaly/front-page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="22" column="51" lean-forward="false" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/laragon/www/com.lesnaly/wp-content/themes/lesnaly/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/laragon/www/com.lesnaly/wp-content/themes/lesnaly/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="485" column="25" lean-forward="true" selection-start-line="485" selection-start-column="25" selection-end-line="485" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/laragon/www/com.lesnaly/wp-content/themes/lesnaly/page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/laragon/www/com.lesnaly/wp-content/themes/lesnaly/single-product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-307">
+          <caret line="28" column="30" lean-forward="true" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/laragon/www/com.lesnaly/wp-content/themes/lesnaly/elements/section-banner.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/laragon/www/com.lesnaly/wp-content/themes/lesnaly/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7294">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/laragon/www/pl.energi/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="77" lean-forward="false" selection-start-line="20" selection-start-column="77" selection-end-line="20" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/laragon/www/pl.energi/web/app/themes/is-energi/piklist/parts/workflows/energi-settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/laragon/www/pl.energi/web/app/themes/is-energi/piklist/parts/settings/energi-settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/views/template-contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/views/elements/header-frontpage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="125" lean-forward="false" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="125" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/laragon/www/pl.energi/web/app/themes/is-energi/piklist/parts/meta-boxes/booking-iframe.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/laragon/www/pl.energi/web/app/themes/is-energi/piklist/parts/meta-boxes/activities.php" />
+    <entry file="file://C:/laragon/www/pl.energi/web/app/themes/is-energi/piklist/parts/meta-boxes/front-page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="219" column="13" lean-forward="true" selection-start-line="213" selection-start-column="10" selection-end-line="219" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/views/elements/activities-section.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
+          <caret line="30" column="18" lean-forward="false" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/styles/css/_left-menu.scss">
+    <entry file="file://C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/views/elements/socialmedia-section.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/views/elements/header-contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/views/elements/reservation-section.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-154">
+          <caret line="20" column="33" lean-forward="true" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/views/elements/header-activities.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/views/elements/form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="29" column="88" lean-forward="false" selection-start-line="29" selection-start-column="88" selection-end-line="29" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/views/elements/booking-iframe.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/views/elements/activity-block.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/assets/styles/50-atoms/_atom.icon.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="2" lean-forward="false" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/views/elements/documents.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="28" column="77" lean-forward="true" selection-start-line="28" selection-start-column="77" selection-end-line="28" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/laragon/www/pl.energi/web/app/themes/is-energi/piklist/parts/meta-boxes/contact-page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3893">
+          <caret line="235" column="22" lean-forward="false" selection-start-line="235" selection-start-column="22" selection-end-line="235" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/views/elements/faq.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="57" lean-forward="false" selection-start-line="19" selection-start-column="57" selection-end-line="19" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/assets/scripts/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/assets/styles/60-molecules/_molecule.documents-contact.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="54" column="29" lean-forward="false" selection-start-line="54" selection-start-column="29" selection-end-line="54" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/assets/styles/70-organisms/_organism.data-contact.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="15" lean-forward="false" selection-start-line="48" selection-start-column="15" selection-end-line="48" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/views/elements/data-contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="17" column="91" lean-forward="false" selection-start-line="17" selection-start-column="91" selection-end-line="17" selection-end-column="91" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="233" column="89" lean-forward="false" selection-start-line="233" selection-start-column="89" selection-end-line="233" selection-end-column="89" />
+        <state relative-caret-position="-3111">
+          <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
           <folding />
         </state>
       </provider>
