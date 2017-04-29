@@ -4,7 +4,7 @@
   height: calculate-rem(500px);
   @include screen('desktop')
   {
-    height: calculate-rem(620px);
+    height: calculate-rem(600px);
   }
   background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../../upload/slide/default.jpg")
   no-repeat center center fixed;
