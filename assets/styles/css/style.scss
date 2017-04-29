@@ -11,8 +11,10 @@ Tags:
 */
 
 //Mixins
-@import "mixins";
+@import "00-settings/mixins";
 //Page
-@import "navbar";
-@import "left-menu";
-@import "cover";
+@import "20-organisms/navbar";
+@import "20-organisms/left-menu";
+@import "20-organisms/cover";
+@import "20-organisms/video-background";
+@import "20-organisms/content";

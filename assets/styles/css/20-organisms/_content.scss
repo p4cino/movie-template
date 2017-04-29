@@ -1,0 +1,7 @@
+.content {
+  margin-top: calculate-rem(15px);
+  @include screen('mobile') {
+    margin-top: 0;
+  }
+  margin-bottom: calculate-rem(100px);
+}

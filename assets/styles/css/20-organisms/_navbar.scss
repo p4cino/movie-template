@@ -7,11 +7,11 @@
   -ms-transition: all 0.9s ease-out;
   transition: all 0.9s ease-out;
   z-index: 999;
-  background: rgba(0, 0, 0, 0) !important;
+  background: rgba(255, 255, 255, 1) !important;
 }
 
 .navbar a{
-  color: white;
+  color: black !important;
 }
 
 .navbar.scrolled {
@@ -31,7 +31,7 @@
 
 .site-menu li {
   float: left;
-  color: white;
+  color: black;
 }
 
 .site-menu li a{
