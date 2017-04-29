@@ -1,0 +1,42 @@
+@function calculate-rem($size: 16px) {
+  @if $size == 0px {
+    $remSize: $size;
+    @return #{$remSize}rem;
+  }
+  $remSize: $size / 16px;
+  @return #{$remSize}rem;
+}
+
+@mixin screen($size) {
+  $desktop: "(min-width: 1024px)";
+  $tablet: "(min-width: 768px) and (max-width: 1023px)";
+  $mobile: "(max-width: 767px)";
+  @if $size == desktop {
+    @media only screen and #{$desktop} {
+      @content;
+    }
+  } @else if $size == tablet {
+    @media only screen and #{$tablet} {
+      @content;
+    }
+  } @else if $size == mobile {
+    @media only screen and #{$mobile} {
+      @content;
+    }
+  } @else {
+    @media only screen and #{$size} {
+      @content;
+    }
+  }
+}
+
+@mixin fontSize($size) {
+  font-size: #{$size};
+  font-size: calculate-rem($size);
+}
+
+@mixin opacity($opacity) {
+  opacity: $opacity;
+  $opacity-ie: $opacity * 100;
+  filter: alpha(opacity=$opacity-ie); //IE8
+}

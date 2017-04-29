@@ -49,7 +49,8 @@ Tags:
   text-align: center; }
 
 .menu-container {
-  width: 100%; }
+  width: 100%;
+  padding-top: 1.25rem; }
   .menu-container__list, .menu-container ul {
     list-style: none;
     padding: 0; }
@@ -57,7 +58,9 @@ Tags:
       text-align: left; }
       .menu-container__list__item a, .menu-container__list li a, .menu-container ul__item a, .menu-container ul li a {
         color: #1e1e1e;
-        padding: 0px 20px;
+        padding-left: 1.25rem;
+        font-size: 18px;
+        font-size: 1.125rem;
         font-weight: 100; }
 
 /* Cover z filmem */
