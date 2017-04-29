@@ -10,6 +10,9 @@ License URI:
 Tags:
 */
 /* Navbar */
+#menu-header {
+  height: 10vh; }
+
 .navbar {
   -webkit-transition: all 0.9s ease-out;
   -moz-transition: all 0.9s ease-out;
@@ -18,26 +21,21 @@ Tags:
   transition: all 0.9s ease-out;
   z-index: 999;
   background: white !important; }
-
-.navbar a {
-  color: black !important; }
-
-.navbar.scrolled {
-  background: rgba(0, 0, 0, 0.5) !important; }
-
-#menu-header {
-  height: 10vh; }
+  .navbar a {
+    color: black !important; }
+  .navbar.scrolled {
+    background: rgba(0, 0, 0, 0.5) !important; }
+    .navbar.scrolled a {
+      color: white !important; }
 
 .site-menu ul {
   list-style-type: none;
   margin: 0;
   padding: 0; }
-
 .site-menu li {
   float: left;
   color: black; }
-
-.site-menu li a {
+.site-menu a {
   display: block;
   padding-top: 10px;
   padding-right: 20px; }
@@ -91,6 +89,14 @@ Tags:
   left: 0;
   top: 0;
   width: 100%; }
+  .bgvid.inner {
+    top: calc(-50vh + 200px);
+    left: calc(-50vw + 200px);
+    filter: url("data:image/svg+xml;utf9,<svg%20version='1.1'%20xmlns='http://www.w3.org/2000/svg'><filter%20id='blur'><feGaussianBlur%20stdDeviation='10'%20/></filter></svg>#blur");
+    -webkit-filter: blur(10px);
+    -ms-filter: blur(10px);
+    -o-filter: blur(10px);
+    filter: blur(10px); }
 
 .inner-container {
   width: 300px;
@@ -100,15 +106,6 @@ Tags:
   right: 0px;
   overflow: hidden; }
 
-.bgvid.inner {
-  top: calc(-50vh + 200px);
-  left: calc(-50vw + 200px);
-  filter: url("data:image/svg+xml;utf9,<svg%20version='1.1'%20xmlns='http://www.w3.org/2000/svg'><filter%20id='blur'><feGaussianBlur%20stdDeviation='10'%20/></filter></svg>#blur");
-  -webkit-filter: blur(10px);
-  -ms-filter: blur(10px);
-  -o-filter: blur(10px);
-  filter: blur(10px); }
-
 .box {
   position: absolute;
   height: 100%;
@@ -117,19 +114,13 @@ Tags:
   color: #fff;
   background: rgba(0, 0, 0, 0.5);
   padding: 30px 0px; }
-
-.box h1 {
-  text-align: center;
-  margin: 30px 0;
-  font-size: 30px; }
-
-.box p {
-  font-size: 14px;
-  text-align: left; }
-
-.box p span {
-  cursor: pointer;
-  color: #666; }
+  .box p {
+    font-size: 14px;
+    text-align: left; }
+  .box h1 {
+    text-align: center;
+    margin: 30px 0;
+    font-size: 30px; }
 
 .content {
   margin-top: 0.9375rem;

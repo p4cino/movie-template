@@ -61,12 +61,15 @@
 <div class="container-fluid video" id="news">
     <div class="vid-container">
         <video class="bgvid" autoplay="autoplay" muted="muted" preload="auto" loop>
-            <source src="https://fat.gfycat.com/ScaryAdorableAardwolf.webm" type="video/webm">
+            <source src="https://www.lizart.vxm.pl/upload/logan-video.mp4" type="video/mp4">
+            <p>Twoja przeglądarka nie obsługuje formatu video</p>
         </video>
         <div class="inner-container">
             <div class="box">
-                <h1>Login</h1>
-                <p>Tracący moc Logan staje się mentorem małej dziewczynki, która posiada podobne zdolności.<span>Sign Up</span></p>
+                <h1>Logan</h1>
+                <p>Tracący moc Logan staje się mentorem małej dziewczynki, która posiada podobne zdolności.</p>
+                <a><i id="play_pause-video" class="fa fa-pause fa-2x"></i></a>
+                <a><i id="mute-video" class="fa fa-volume-up fa-2x"></i></a>
             </div>
         </div>
     </div>
@@ -238,6 +241,34 @@
 <script src="assets/owlcarousel/owl.carousel.min.js"></script>
 
 <script type="text/javascript" src="./assets/js/pushmenu.js"></script>
+
+<script>
+    // Mute/Unmute
+    $("#mute-video").click( function (){
+        $('#mute-video').toggleClass('fa-volume-up fa-volume-off');
+        if( $("video").prop('muted') ) {
+            $("video").prop('muted', false);
+        } else {
+            $("video").prop('muted', true);
+        }
+    });
+    // Play/Pause
+    $('#play_pause-video').click(function () {
+        $('#play_pause-video').toggleClass('fa-play fa-pause');
+        if ($("video").get(0).paused) {
+            $("video").get(0).play();
+        } else {
+            $("video").get(0).pause();
+        }
+    });
+    // Play/Pause
+    $('#fullscreen-video').click(function () {
+            $("video").get(0).requestFullscreen;
+            console.log("dupa");
+    });
+
+
+</script>
 <script type="text/javascript">
     (function ($) {
         $('#pm_menu').pushmenu({

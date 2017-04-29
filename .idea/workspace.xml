@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ff15c6b-7995-49f4-af73-c5312e7f31e6" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/styles/.sass-cache/4e003ee5e0a6a314cf7c00ffefa3e0a7d6eb31da/_navbar.scssc" afterPath="$PROJECT_DIR$/assets/styles/.sass-cache/4e003ee5e0a6a314cf7c00ffefa3e0a7d6eb31da/_navbar.scssc" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/styles/.sass-cache/4e003ee5e0a6a314cf7c00ffefa3e0a7d6eb31da/_video-background.scssc" afterPath="$PROJECT_DIR$/assets/styles/.sass-cache/4e003ee5e0a6a314cf7c00ffefa3e0a7d6eb31da/_video-background.scssc" />
       <change type="MODIFICATION" beforePath="C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/assets/scripts/main.js" afterPath="C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/assets/scripts/main.js" />
       <change type="MODIFICATION" beforePath="C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/assets/styles/70-organisms/_organism.data-contact.scss" afterPath="C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/assets/styles/70-organisms/_organism.data-contact.scss" />
       <change type="MODIFICATION" beforePath="C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/views/elements/data-contact.php" afterPath="C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/views/elements/data-contact.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/styles/css/20-organisms/_navbar.scss" afterPath="$PROJECT_DIR$/assets/styles/css/20-organisms/_navbar.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/styles/css/20-organisms/_video-background.scss" afterPath="$PROJECT_DIR$/assets/styles/css/20-organisms/_video-background.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/styles/style.css" afterPath="$PROJECT_DIR$/assets/styles/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/styles/style.css.map" afterPath="$PROJECT_DIR$/assets/styles/style.css.map" />
@@ -21,21 +23,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3230">
-              <caret line="68" column="107" lean-forward="false" selection-start-line="68" selection-start-column="107" selection-end-line="68" selection-end-column="107" />
+            <state relative-caret-position="179">
+              <caret line="71" column="76" lean-forward="false" selection-start-line="71" selection-start-column="76" selection-end-line="71" selection-end-column="76" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_navbar.scss" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_navbar.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/styles/css/20-organisms/_navbar.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="16" column="8" lean-forward="false" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+            <state relative-caret-position="340">
+              <caret line="20" column="18" lean-forward="false" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -54,10 +56,10 @@
       <file leaf-file-name="_video-background.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/styles/css/20-organisms/_video-background.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+            <state relative-caret-position="187">
+              <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
               <folding>
-                <element signature="e#430#599#2" expanded="true" />
+                <element signature="e#315#484#2" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -199,9 +201,9 @@
         <option value="$PROJECT_DIR$/assets/styles/css/20-organisms/_content.scss" />
         <option value="$PROJECT_DIR$/assets/styles/css/style.scss" />
         <option value="$PROJECT_DIR$/assets/styles/css/00-settings/_mixins.scss" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/assets/styles/css/20-organisms/_video-background.scss" />
         <option value="$PROJECT_DIR$/assets/styles/css/20-organisms/_navbar.scss" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -744,7 +746,7 @@
       <workItem from="1493282270290" duration="23275000" />
       <workItem from="1493384294126" duration="4996000" />
       <workItem from="1493467498153" duration="293000" />
-      <workItem from="1493467941526" duration="7221000" />
+      <workItem from="1493467941526" duration="13515000" />
     </task>
     <task id="LOCAL-00001" summary="Karuzela">
       <created>1491149728956</created>
@@ -785,10 +787,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="217923000" />
+    <option name="totallyTimeSpent" value="224217000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21449487" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1178,10 +1180,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/styles/css/20-organisms/_video-background.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        <state relative-caret-position="187">
+          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
           <folding>
-            <element signature="e#430#599#2" expanded="true" />
+            <element signature="e#315#484#2" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1194,18 +1196,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/assets/styles/css/20-organisms/_navbar.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3230">
-          <caret line="68" column="107" lean-forward="false" selection-start-line="68" selection-start-column="107" selection-end-line="68" selection-end-column="107" />
+        <state relative-caret-position="340">
+          <caret line="20" column="18" lean-forward="false" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/styles/css/20-organisms/_navbar.scss">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="16" column="8" lean-forward="false" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        <state relative-caret-position="179">
+          <caret line="71" column="76" lean-forward="false" selection-start-line="71" selection-start-column="76" selection-end-line="71" selection-end-column="76" />
           <folding />
         </state>
       </provider>
