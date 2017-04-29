@@ -65,9 +65,9 @@ function checkScroll() {
 //Karuzela
 $('.loop').owlCarousel({
     loop: true,
-    dots: false,
+    dots: true,
     margin: 10,
-    nav: true,
+    nav: false,
     autoplay: true,
     autoplayTimeout: 4500,
     autoplayHoverPause: true,
