@@ -13,6 +13,12 @@
   padding: 3px;
   transition: .3s;
   transition-timing-function: ease-in-out;
+  &:hover {
+    height: 220px;
+    width: 350px;
+    transition: .3s;
+    transition-timing-function: ease-in-out;
+  }
 }
 
 .items {
@@ -24,13 +30,6 @@
   transition: left .5s;
   transition-timing-function: ease-in-out;
   z-index: 13;
-}
-
-.image:hover {
-  height: 220px;
-  width: 350px;
-  transition: .3s;
-  transition-timing-function: ease-in-out;
 }
 
 .button-overlay {
