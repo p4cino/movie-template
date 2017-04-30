@@ -29,11 +29,11 @@
 }
 
 .inner-container {
-  width: 300px;
+  width: calculate-rem(300px);
   height: 100%;
   position: absolute;
   top: calc(40% - 200px);
-  right: 0px;
+  right: 0rem;
   overflow: hidden;
 }
 
@@ -44,14 +44,21 @@
   font-family: Helvetica;
   color: #fff;
   background: rgba(0, 0, 0, 0.5);
-  padding: 30px 0px;
-  p {
-    font-size: 14px;
-    text-align: left;
-  }
+  padding: calculate-rem(30px) 0;
+  font-family: 'Lato', sans-serif;
   h1 {
     text-align: center;
-    margin: 30px 0;
-    font-size: 30px;
+    margin: calculate-rem(30px) 0;
+    @include fontSize(30px);
+    font-weight: 300;
+  }
+  p {
+    padding-left: calculate-rem(5px);
+    padding-right: calculate-rem(5px);
+    @include fontSize(14px);
+    text-align: left;
+  }
+  &__video-settings {
+    text-align: center;
   }
 }

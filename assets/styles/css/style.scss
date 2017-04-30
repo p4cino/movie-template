@@ -9,7 +9,8 @@ License:
 License URI:
 Tags:
 */
-
+//Fonts
+@import url(https://fonts.googleapis.com/css?family=Lato:300,400);
 //Mixins
 @import "00-settings/mixins";
 //Page
@@ -18,3 +19,4 @@ Tags:
 @import "20-organisms/cover";
 @import "20-organisms/video-background";
 @import "20-organisms/content";
+@import "20-organisms/premiere-slide";
