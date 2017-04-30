@@ -13,9 +13,6 @@
 
     <!--Menu boczne-->
     <link rel="stylesheet" href="./assets/styles/pushmenu.css">
-    <!--Karuzela-->
-    <link rel="stylesheet" href="./assets/owlcarousel/assets/owl.carousel.min.css">
-    <link rel="stylesheet" href="./assets/owlcarousel/assets/owl.theme.default.min.css">
     <!--Styl modyfikujący wygląd -->
     <link rel="stylesheet" href="./assets/styles/style.css">
 
@@ -69,8 +66,10 @@
             <div class="box">
                 <h1>Logan</h1>
                 <p>Tracący moc Logan staje się mentorem małej dziewczynki, która posiada podobne zdolności.</p>
-                <a><i id="play_pause-video" class="fa fa-pause fa-2x"></i></a>
-                <a><i id="mute-video" class="fa fa-volume-up fa-2x"></i></a>
+                <div class="box__video-settings">
+                    <a><i id="play_pause-video" class="fa fa-pause fa-2x"></i></a>
+                    <a><i id="mute-video" class="fa fa-volume-up fa-2x"></i></a>
+                </div>
             </div>
         </div>
     </div>
@@ -78,150 +77,32 @@
 
 <div class="container-fluid">
     <p class="h1">Premiery</p>
-    <div class="loop owl-carousel owl-theme">
-        <div class="item">
-            <figure>
-                <a href="#">
-                    <img src="https://placehold.it/300x140&text=1" class="img-thumbnail" alt=""/>
-                    <figcaption>
-                        <div>
-                            <h3>
-                                Caption Title
-                            </h3>
-                        </div>
-                    </figcaption>
-                </a>
-            </figure>
+    <div class="flex-container">
+        <div class="items">
+            <img class="image"
+                 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIsnZBBXdhpf1_qCVu08sQh95unQ65UTabUs5QoLivkAcaj7PVFA"
+                 alt=""/>
+            <img class="image" src="http://netflixlife.com/files/2015/05/inglourious-basterds-.jpg" alt=""/>
+            <img class="image"
+                 src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRjyD_W97_8VCTAqkGE1NX56S8d5783fKhT_-Q9wpDXR7HVsOjODQ"
+                 alt=""/>
+            <img class="image"
+                 src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTB83A4eeAEgcHIH0WBRcEcYoYWCRtbZ9rId1ZZHrLv6OoYoRIC4A"
+                 alt=""/>
+            <img class="image"
+                 src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS7_0toJHp2ECSTtR2LxUOK5r9MMnwJTIG0VcKquihFQmNT411UJw"
+                 alt=""/>
+            <img class="image"
+                 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx5ZGvxU1Kw3dgjV-Vxi_u4DtoUy-qtn1bcmbeNbjBPnqLvxzqug"
+                 alt=""/>
+            <img class="image"
+                 src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRglxVWeeh8xfNIRM6nN6cDoaRfpSx8158MWzb7n2e9vnJKq_P6"
+                 alt=""/>
         </div>
-
-        <div class="item">
-            <figure>
-                <a href="#">
-                    <img src="https://placehold.it/300x140&text=1" class="img-thumbnail" alt=""/>
-                    <figcaption>
-                        <div>
-                            <h3>
-                                Caption Title
-                            </h3>
-                        </div>
-                    </figcaption>
-                </a>
-            </figure>
-        </div>
-        <div class="item">
-            <figure>
-                <a href="#">
-                    <img src="https://placehold.it/300x140&text=1" class="img-thumbnail" alt=""/>
-                    <figcaption>
-                        <div>
-                            <h3>
-                                Caption Title
-                            </h3>
-                        </div>
-                    </figcaption>
-                </a>
-            </figure>
-        </div>
-        <div class="item">
-            <figure>
-                <a href="#">
-                    <img src="https://placehold.it/300x140&text=1" class="img-thumbnail" alt=""/>
-                    <figcaption>
-                        <div>
-                            <h3>
-                                Caption Title
-                            </h3>
-                        </div>
-                    </figcaption>
-                </a>
-            </figure>
-        </div>
-        <div class="item">
-            <figure>
-                <a href="#">
-                    <img src="https://placehold.it/300x140&text=1" class="img-thumbnail" alt=""/>
-                    <figcaption>
-                        <div>
-                            <h3>
-                                Caption Title
-                            </h3>
-                        </div>
-                    </figcaption>
-                </a>
-            </figure>
-        </div>
-        <div class="item">
-            <figure>
-                <a href="#">
-                    <img src="https://placehold.it/300x140&text=1" class="img-thumbnail" alt=""/>
-                    <figcaption>
-                        <div>
-                            <h3>
-                                Caption Title
-                            </h3>
-                        </div>
-                    </figcaption>
-                </a>
-            </figure>
-        </div>
-        <div class="item">
-            <figure>
-                <a href="#">
-                    <img src="https://placehold.it/300x140&text=1" class="img-thumbnail" alt=""/>
-                    <figcaption>
-                        <div>
-                            <h3>
-                                Caption Title
-                            </h3>
-                        </div>
-                    </figcaption>
-                </a>
-            </figure>
-        </div>
-        <div class="item">
-            <figure>
-                <a href="#">
-                    <img src="https://placehold.it/300x140&text=1" class="img-thumbnail" alt=""/>
-                    <figcaption>
-                        <div>
-                            <h3>
-                                Caption Title
-                            </h3>
-                        </div>
-                    </figcaption>
-                </a>
-            </figure>
-        </div>
-        <div class="item">
-            <figure>
-                <a href="#">
-                    <img src="https://placehold.it/300x140&text=1" class="img-thumbnail" alt=""/>
-                    <figcaption>
-                        <div>
-                            <h3>
-                                Caption Title
-                            </h3>
-                        </div>
-                    </figcaption>
-                </a>
-            </figure>
-        </div>
-        <div class="item">
-            <figure>
-                <a href="#">
-                    <img src="https://placehold.it/300x140&text=1" class="img-thumbnail" alt=""/>
-                    <figcaption>
-                        <div>
-                            <h3>
-                                Caption Title
-                            </h3>
-                        </div>
-                    </figcaption>
-                </a>
-            </figure>
-        </div>
-
+        <div id="left" class="button-overlay left">&#9664;</div>
+        <div id="right" class="button-overlay right">&#9654;</div>
     </div>
+</div>
 </div>
 
 <div class="container content ">
@@ -251,7 +132,6 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js"></script>
-<script src="assets/owlcarousel/owl.carousel.min.js"></script>
 
 <script type="text/javascript" src="./assets/js/pushmenu.js"></script>
 <script type="text/javascript" src="./assets/js/main.js"></script>
