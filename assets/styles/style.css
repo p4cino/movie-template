@@ -10,6 +10,15 @@ License URI:
 Tags:
 */
 @import url(https://fonts.googleapis.com/css?family=Lato:300,400);
+body {
+  background: #191d1e; }
+
+h1, h2, h3 {
+  color: #999 !important; }
+
+p {
+  color: #999 !important; }
+
 /* Navbar */
 #menu-header {
   height: 10vh; }
@@ -21,9 +30,7 @@ Tags:
   -ms-transition: all 0.9s ease-out;
   transition: all 0.9s ease-out;
   z-index: 999;
-  background: white !important; }
-  .navbar a {
-    color: black !important; }
+  background: rgba(255, 255, 255, 0) !important; }
   .navbar.scrolled {
     background: rgba(0, 0, 0, 0.5) !important; }
     .navbar.scrolled a {
@@ -35,7 +42,7 @@ Tags:
   padding: 0; }
 .site-menu li {
   float: left;
-  color: black; }
+  color: white; }
 .site-menu a {
   display: block;
   padding-top: 10px;
@@ -145,32 +152,31 @@ Tags:
       margin-top: 0; } }
 
 .flex-container {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
   height: 150px;
   width: 100%; }
+
+.premiere-slide {
+  width: 100%; }
+
+.slick-list {
+  overflow-x: hidden;
+  overflow-y: visible; }
 
 .image {
   height: 120px;
   width: 200px;
-  padding: 3px;
+  padding: 5px;
   transition: .3s;
-  transition-timing-function: ease-in-out; }
+  transition-timing-function: ease-in-out;
+  margin-top: 10px; }
   .image:hover {
-    height: 220px;
-    width: 350px;
+    margin-top: 0px;
+    height: 12.5rem;
+    width: 15.625rem;
     transition: .3s;
     transition-timing-function: ease-in-out; }
 
 .items {
-  justify-content: center;
-  display: flex;
-  align-items: center;
-  top: 50%;
-  left: 50%;
-  transition: left .5s;
-  transition-timing-function: ease-in-out;
   z-index: 13; }
 
 .button-overlay {
