@@ -193,7 +193,8 @@ p {
   top: 35%;
   cursor: pointer;
   z-index: 13;
-  text-align: center; }
+  text-align: center;
+  display: none; }
   .button-overlay .icon {
     padding-top: 1.875rem; }
 

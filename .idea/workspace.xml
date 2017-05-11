@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ff15c6b-7995-49f4-af73-c5312e7f31e6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/styles/.sass-cache/4e003ee5e0a6a314cf7c00ffefa3e0a7d6eb31da/_content.scssc" afterPath="$PROJECT_DIR$/assets/styles/.sass-cache/4e003ee5e0a6a314cf7c00ffefa3e0a7d6eb31da/_content.scssc" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/styles/.sass-cache/4e003ee5e0a6a314cf7c00ffefa3e0a7d6eb31da/_premiere-slide.scssc" afterPath="$PROJECT_DIR$/assets/styles/.sass-cache/4e003ee5e0a6a314cf7c00ffefa3e0a7d6eb31da/_premiere-slide.scssc" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/styles/css/20-organisms/_content.scss" afterPath="$PROJECT_DIR$/assets/styles/css/20-organisms/_content.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/styles/css/20-organisms/_premiere-slide.scss" afterPath="$PROJECT_DIR$/assets/styles/css/20-organisms/_premiere-slide.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/styles/style.css" afterPath="$PROJECT_DIR$/assets/styles/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/styles/style.css.map" afterPath="$PROJECT_DIR$/assets/styles/style.css.map" />
@@ -21,21 +19,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="353">
-              <caret line="139" column="14" lean-forward="true" selection-start-line="139" selection-start-column="14" selection-end-line="139" selection-end-column="14" />
+            <state relative-caret-position="421">
+              <caret line="214" column="46" lean-forward="false" selection-start-line="214" selection-start-column="46" selection-end-line="214" selection-end-column="46" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_premiere-slide.scss" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_premiere-slide.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/styles/css/20-organisms/_premiere-slide.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="51" column="36" lean-forward="false" selection-start-line="51" selection-start-column="36" selection-end-line="51" selection-end-column="36" />
+            <state relative-caret-position="47">
+              <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -193,8 +191,8 @@
         <option value="$PROJECT_DIR$/../movie-template2/index.html" />
         <option value="$PROJECT_DIR$/assets/styles/slick.css" />
         <option value="$PROJECT_DIR$/assets/styles/css/20-organisms/_content.scss" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/assets/styles/css/20-organisms/_premiere-slide.scss" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -491,7 +489,7 @@
       <workItem from="1494313290980" duration="21301000" />
       <workItem from="1494404858604" duration="5340000" />
       <workItem from="1494412457498" duration="13771000" />
-      <workItem from="1494492620662" duration="18669000" />
+      <workItem from="1494492620662" duration="19172000" />
     </task>
     <task id="LOCAL-00001" summary="Karuzela">
       <created>1491149728956</created>
@@ -532,7 +530,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="371105000" />
+    <option name="totallyTimeSpent" value="371608000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -1006,14 +1004,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="139" column="14" lean-forward="true" selection-start-line="139" selection-start-column="14" selection-end-line="139" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/styles/css/20-organisms/_content.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -1024,8 +1014,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/styles/css/20-organisms/_premiere-slide.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="51" column="36" lean-forward="false" selection-start-line="51" selection-start-column="36" selection-end-line="51" selection-end-column="36" />
+        <state relative-caret-position="47">
+          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="214" column="46" lean-forward="false" selection-start-line="214" selection-start-column="46" selection-end-line="214" selection-end-column="46" />
           <folding />
         </state>
       </provider>

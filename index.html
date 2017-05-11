@@ -207,6 +207,13 @@
         $('.items').slick('slickNext');
     });
 
+    $( ".premiere-slide" )
+        .mouseenter(function() {
+            $('.button-overlay').fadeIn("slow");
+        })
+        .mouseleave(function() {
+            $('.button-overlay').fadeOut("slow");
+        });
 
 </script>
 </body>
