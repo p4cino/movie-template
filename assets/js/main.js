@@ -64,12 +64,11 @@ $('.items').slick({
     infinite: true,
     speed: 300,
     slidesToShow: 7,
-    nextArrow: '<i class="fa fa-arrow-right"></i>',
-    prevArrow: '<i class="fa fa-arrow-left"></i>',
     variableWidth: true,
     adaptiveHeight: true,
     lazyLoad: 'ondemand',
-    slidesToScroll: 1,
+    slidesToScroll: 5,
+    centerMode: true,
     arrows: false
 });
 
