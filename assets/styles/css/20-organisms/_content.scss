@@ -1,5 +1,8 @@
 .content {
-  margin-top: calculate-rem(15px);
+  p{
+    margin-top: calculate-rem(-15px);
+    z-index: 1;
+  }
   @include screen('mobile') {
     margin-top: 0;
   }
