@@ -15,15 +15,16 @@
 }
 
 .image {
+  z-index: 999;
   height: 120px;
   width: 200px;
   padding:5px;
   transition: .3s;
   transition-timing-function: ease-in-out;
-  margin-top: 10px;
+  margin-top: 20px;
   &:hover {
     margin-top: 0px;
-    height: calculate-rem(200px);
+    height: calculate-rem(170px);
     width: calculate-rem(250px);
     transition: .3s;
 
@@ -35,7 +36,7 @@
 }
 
 .items {
-  z-index: 13;
+
 }
 
 .button-overlay {

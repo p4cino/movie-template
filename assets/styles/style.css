@@ -163,21 +163,19 @@ p {
   overflow-y: visible; }
 
 .image {
+  z-index: 999;
   height: 120px;
   width: 200px;
   padding: 5px;
   transition: .3s;
   transition-timing-function: ease-in-out;
-  margin-top: 10px; }
+  margin-top: 20px; }
   .image:hover {
     margin-top: 0px;
-    height: 12.5rem;
+    height: 10.625rem;
     width: 15.625rem;
     transition: .3s;
     transition-timing-function: ease-in-out; }
-
-.items {
-  z-index: 13; }
 
 .button-overlay {
   z-index: 10;
