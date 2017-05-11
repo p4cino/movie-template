@@ -59,3 +59,32 @@ function checkScroll() {
         $('.navbar').removeClass("scrolled");
     }
 }
+//=====Premiere Carousel=====
+$('.items').slick({
+    infinite: true,
+    speed: 300,
+    slidesToShow: 7,
+    nextArrow: '<i class="fa fa-arrow-right"></i>',
+    prevArrow: '<i class="fa fa-arrow-left"></i>',
+    variableWidth: true,
+    adaptiveHeight: true,
+    lazyLoad: 'ondemand',
+    slidesToScroll: 1,
+    arrows: false
+});
+
+$('#left').click(function () {
+    $('.items').slick('slickPrev');
+});
+
+$('#right').click(function () {
+    $('.items').slick('slickNext');
+});
+//=====Premiere Button Hover=====
+$(".flex-container")
+    .mouseenter(function () {
+        $('.button-overlay').show();
+    })
+    .mouseleave(function () {
+        $('.button-overlay').hide();
+    });

@@ -185,36 +185,6 @@
 <script type="text/javascript" src="./assets/js/slick.min.js"></script>
 <script type="text/javascript" src="./assets/js/pushmenu.js"></script>
 <script type="text/javascript" src="./assets/js/main.js"></script>
-<script>
-    $('.items').slick({
-        infinite: true,
-        speed: 300,
-        slidesToShow: 7,
-        nextArrow: '<i class="fa fa-arrow-right"></i>',
-        prevArrow: '<i class="fa fa-arrow-left"></i>',
-        variableWidth: true,
-        adaptiveHeight: true,
-        lazyLoad: 'ondemand',
-        slidesToScroll: 1,
-        arrows: false
-    });
 
-    $('#left').click(function () {
-        $('.items').slick('slickPrev');
-    });
-
-    $('#right').click(function () {
-        $('.items').slick('slickNext');
-    });
-
-    $( ".premiere-slide" )
-        .mouseenter(function() {
-            $('.button-overlay').fadeIn("slow");
-        })
-        .mouseleave(function() {
-            $('.button-overlay').fadeOut("slow");
-        });
-
-</script>
 </body>
 </html>
