@@ -1,6 +1,7 @@
 .content {
   p{
     z-index: 1;
+
   }
   @include screen('mobile') {
     margin-top: 0;
