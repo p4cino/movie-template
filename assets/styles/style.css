@@ -126,7 +126,14 @@ p {
   width: 100%;
   font-family: Helvetica;
   color: #fff;
-  background: rgba(0, 0, 0, 0.5);
+  background: black;
+  background: -moz-linear-gradient(top, black 0%, rgba(255, 255, 255, 0) 100%);
+  background: -webkit-gradient(left top, left bottom, color-stop(0%, black), color-stop(100%, rgba(255, 255, 255, 0)));
+  background: -webkit-linear-gradient(top, black 0%, rgba(255, 255, 255, 0) 100%);
+  background: -o-linear-gradient(top, black 0%, rgba(255, 255, 255, 0) 100%);
+  background: -ms-linear-gradient(top, black 0%, rgba(255, 255, 255, 0) 100%);
+  background: linear-gradient(to bottom, black 0%, rgba(255, 255, 255, 0) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#ffffff', GradientType=0 );
   padding: 1.875rem 0;
   font-family: 'Lato', sans-serif; }
   .box h1 {

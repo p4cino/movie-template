@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ff15c6b-7995-49f4-af73-c5312e7f31e6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/styles/.sass-cache/4e003ee5e0a6a314cf7c00ffefa3e0a7d6eb31da/_navbar.scssc" afterPath="$PROJECT_DIR$/assets/styles/.sass-cache/4e003ee5e0a6a314cf7c00ffefa3e0a7d6eb31da/_navbar.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/styles/.sass-cache/a478a3726c6ed0e58c85046e0a3aecf9fbd72d2f/_body.scssc" afterPath="$PROJECT_DIR$/assets/styles/.sass-cache/a478a3726c6ed0e58c85046e0a3aecf9fbd72d2f/_body.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/main.js" afterPath="$PROJECT_DIR$/assets/js/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/styles/css/00-settings/_body.scss" afterPath="$PROJECT_DIR$/assets/styles/css/00-settings/_body.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/styles/css/20-organisms/_navbar.scss" afterPath="$PROJECT_DIR$/assets/styles/css/20-organisms/_navbar.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/styles/.sass-cache/4e003ee5e0a6a314cf7c00ffefa3e0a7d6eb31da/_video-background.scssc" afterPath="$PROJECT_DIR$/assets/styles/.sass-cache/4e003ee5e0a6a314cf7c00ffefa3e0a7d6eb31da/_video-background.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/styles/css/20-organisms/_video-background.scss" afterPath="$PROJECT_DIR$/assets/styles/css/20-organisms/_video-background.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/styles/style.css" afterPath="$PROJECT_DIR$/assets/styles/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/styles/style.css.map" afterPath="$PROJECT_DIR$/assets/styles/style.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,21 +27,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_navbar.scss" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/assets/styles/css/20-organisms/_navbar.scss">
+      <file leaf-file-name="_video-background.scss" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/styles/css/20-organisms/_video-background.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="32" lean-forward="false" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_body.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/styles/css/00-settings/_body.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
+            <state relative-caret-position="323">
+              <caret line="52" column="119" lean-forward="false" selection-start-line="52" selection-start-column="119" selection-end-line="52" selection-end-column="119" />
               <folding />
             </state>
           </provider>
@@ -136,7 +121,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/assets/styles/css/20-organisms/_cover.scss" />
-        <option value="$PROJECT_DIR$/assets/styles/css/20-organisms/_video-background.scss" />
         <option value="C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/assets/styles/20-vendor/_vendor.selectric.scss" />
         <option value="C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/views/elements/header-contact.php" />
         <option value="C:/laragon/www/pl.energi/web/app/themes/is-energi/resources/views/elements/documents.php" />
@@ -186,6 +170,7 @@
         <option value="$PROJECT_DIR$/assets/js/main.js" />
         <option value="$PROJECT_DIR$/assets/styles/css/00-settings/_body.scss" />
         <option value="$PROJECT_DIR$/assets/styles/css/20-organisms/_navbar.scss" />
+        <option value="$PROJECT_DIR$/assets/styles/css/20-organisms/_video-background.scss" />
       </list>
     </option>
   </component>
@@ -512,7 +497,7 @@
       <workItem from="1494313290980" duration="21301000" />
       <workItem from="1494404858604" duration="5340000" />
       <workItem from="1494412457498" duration="13771000" />
-      <workItem from="1494492620662" duration="19862000" />
+      <workItem from="1494492620662" duration="20519000" />
     </task>
     <task id="LOCAL-00001" summary="Karuzela">
       <created>1491149728956</created>
@@ -553,10 +538,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="372298000" />
+    <option name="totallyTimeSpent" value="372955000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23206443" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -982,14 +967,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/styles/css/20-organisms/_video-background.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/styles/css/style.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -1046,14 +1023,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="82" column="23" lean-forward="false" selection-start-line="82" selection-start-column="23" selection-end-line="82" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/styles/css/00-settings/_body.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1066,6 +1035,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="32" lean-forward="false" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="82" column="23" lean-forward="false" selection-start-line="82" selection-start-column="23" selection-end-line="82" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/styles/css/20-organisms/_video-background.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="52" column="119" lean-forward="false" selection-start-line="52" selection-start-column="119" selection-end-line="52" selection-end-column="119" />
           <folding />
         </state>
       </provider>
