@@ -13,11 +13,21 @@ Tags:
 body {
   background: white; }
 
-h1, h2, h3 {
+.normal h1, .normal h2, .normal h3 {
   color: #191d1e !important; }
+.normal p {
+  color: #191d1e !important; }
+.normal footer {
+  background: #191d1e; }
 
-p {
-  color: #191d1e !important; }
+.inverse {
+  background: #191d1e; }
+  .inverse h1, .inverse h2, .inverse h3 {
+    color: white !important; }
+  .inverse p {
+    color: white !important; }
+  .inverse footer {
+    background: white; }
 
 /* Navbar */
 #menu-header {

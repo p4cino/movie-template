@@ -1,4 +1,4 @@
-$main-color: rgb(255, 255, 255) ;
+$main-color: rgb(255, 255, 255);
 $second-color: rgb(25, 29, 30);
 //#191d1e
 
@@ -6,10 +6,27 @@ body {
   background: $main-color;
 }
 
-h1, h2, h3 {
-  color: $second-color !important;
+.normal {
+  h1, h2, h3 {
+    color: $second-color !important;
+  }
+  p {
+    color: $second-color !important;
+  }
+  footer {
+    background: $second-color;
+  }
 }
 
-p {
-  color: $second-color !important;
+.inverse {
+  background: $second-color;
+  h1, h2, h3 {
+    color: $main-color !important;
+  }
+  p {
+    color: $main-color !important;
+  }
+  footer {
+    background: $main-color;
+  }
 }

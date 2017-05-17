@@ -143,3 +143,8 @@ function scaleBannerVideoSize(element) {
         }
     );
 }
+
+// Mute/Unmute
+$("#inverse").click(function () {
+    $('body').toggleClass('normal inverse');
+});
