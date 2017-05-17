@@ -147,8 +147,13 @@ function scaleBannerVideoSize(element) {
 // Inverse Colors
 $("#inverse").click(function () {
     $('body').toggleClass('normal inverse');
+    $('#inverse').toggleClass('text-danger text-primary');
+
     var text = $('#inverse').text();
     Cookies.set('tryb', text, { expires: 7 });
+
+    $("#inverse").text(
+        text == "Tryb nocny" ? "Tryb Nocny" : "Tryb nocny");
 });
 
 var tryb = Cookies.get('tryb');
@@ -160,6 +165,4 @@ if(decodeURI(tryb) == 'Tryb nocny'){
     $('body').addClass("inverse");
     $('#inverse').toggleClass('text-danger text-primary');
     $('#inverse').text("Tryb dzienny");
-    console.log("dupa");
-
 }
