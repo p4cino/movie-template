@@ -144,7 +144,22 @@ function scaleBannerVideoSize(element) {
     );
 }
 
-// Mute/Unmute
+// Inverse Colors
 $("#inverse").click(function () {
     $('body').toggleClass('normal inverse');
+    var text = $('#inverse').text();
+    Cookies.set('tryb', text, { expires: 7 });
 });
+
+var tryb = Cookies.get('tryb');
+var firstClass = 'text-primary';
+var secondClass = 'text-danger';
+
+if(decodeURI(tryb) == 'Tryb nocny'){
+    $('body').removeClass("normal");
+    $('body').addClass("inverse");
+    $('#inverse').toggleClass('text-danger text-primary');
+    $('#inverse').text("Tryb dzienny");
+    console.log("dupa");
+
+}

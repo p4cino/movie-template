@@ -13,6 +13,9 @@ Tags:
 body {
   background: white; }
 
+a:hover, a:active, a:visited {
+  text-decoration: none !important; }
+
 .normal h1, .normal h2, .normal h3 {
   color: #191d1e !important; }
 .normal p {
