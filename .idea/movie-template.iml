@@ -4,11 +4,7 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="lesnaly" />
-    <orderEntry type="module" module-name="recipeBox" />
-    <orderEntry type="module" module-name="untitled1" />
-    <orderEntry type="module" module-name="movie" />
     <orderEntry type="module" module-name="pl.energi" />
-    <orderEntry type="module" module-name="lesnaly" />
+    <orderEntry type="module" module-name="engine" />
   </component>
 </module>

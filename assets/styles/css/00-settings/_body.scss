@@ -1,14 +1,15 @@
-$main-color: #191d1e;
-
+$main-color: rgb(255, 255, 255) ;
+$second-color: rgb(25, 29, 30);
+//#191d1e
 
 body {
   background: $main-color;
 }
 
 h1, h2, h3 {
-  color: #999 !important;
+  color: $second-color !important;
 }
 
 p {
-  color: #999 !important;
+  color: $second-color !important;
 }

@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://C:/laragon/www/com.lesnaly/.idea/lesnaly.iml" filepath="C:/laragon/www/com.lesnaly/.idea/lesnaly.iml" />
+      <module fileurl="file://C:/laragon/www/engine/.idea/engine.iml" filepath="C:/laragon/www/engine/.idea/engine.iml" />
       <module fileurl="file://C:\laragon\www\lesnaly\.idea\lesnaly.iml" filepath="C:\laragon\www\lesnaly\.idea\lesnaly.iml" />
-      <module fileurl="file://C:/laragon/www/movie/.idea/movie.iml" filepath="C:/laragon/www/movie/.idea/movie.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/movie-template.iml" filepath="$PROJECT_DIR$/.idea/movie-template.iml" />
       <module fileurl="file://C:/laragon/www/pl.energi/.idea/pl.energi.iml" filepath="C:/laragon/www/pl.energi/.idea/pl.energi.iml" />
-      <module fileurl="file://$USER_HOME$/PhpstormProjects/recipeBox/.idea/recipeBox.iml" filepath="$USER_HOME$/PhpstormProjects/recipeBox/.idea/recipeBox.iml" />
-      <module fileurl="file://$USER_HOME$/PhpstormProjects/untitled1/.idea/untitled1.iml" filepath="$USER_HOME$/PhpstormProjects/untitled1/.idea/untitled1.iml" />
     </modules>
   </component>
 </project>
